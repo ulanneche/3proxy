@@ -32,7 +32,7 @@ Or
 	
 Uninstall:
 
-	wget --no-check-certificate https://raw.github.com/SnoyIatk/3proxy/master/3proxyuninstall.sh
+	wget --no-check-certificate https://raw.githubusercontent.com/ulanneche/3proxy/master/3proxyuninstall.sh
 	chmod +x 3proxyuninstall.sh
 	./3proxyuninstall.sh
 
@@ -45,4 +45,4 @@ Uninstall:
 - Debian 7 32bits
 - Ubuntu 12.10 32bits
 - Ubuntu 12.04 32bits
-- Ubuntu 14.04 and later
+- Ubuntu 24.04 and later
